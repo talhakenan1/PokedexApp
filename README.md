@@ -3,13 +3,6 @@
 # Pokedex React App
 <img src="https://raw.githubusercontent.com/salesp07/salesp07.github.io/master/public/pokedex-responsive.png" alt="MyMind screenshot"/>
 
-## Contributors
-Pedro Sales-Muniz
-[LinkedIn](https://www.linkedin.com/in/pedro-sales-muniz/) |
-[GitHub](https://github.com/salesp07)
-
-<img src="https://contrib.rocks/image?repo=salesp07/Pokedex-ReactApp" />
-
 ## Technologies used
 Frontend - React.js, Recharts.js\
 Backend - Node.js, MongoDB Altlas
